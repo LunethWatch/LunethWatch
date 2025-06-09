@@ -1,6 +1,6 @@
 [project]
-name = "Sylphia"
-version = "1.0"
+name = "ElarisLab"
+version = "1.1"
 [limits]
 tx_threshold = 500
 volume_threshold = 100000
