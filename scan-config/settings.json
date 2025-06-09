@@ -1,6 +1,6 @@
 {
-  "project": "Sylphia",
-  "version": "1.0",
+  "project": "ElarisLab",
+  "version": "1.1",
   "enabledModules": ["bot", "sybil", "whale", "flashloan"],
   "maxRequestsPerMinute": 60,
   "retryLimit": 3,
