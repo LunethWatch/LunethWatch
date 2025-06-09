@@ -1,6 +1,6 @@
 app:
-  name: SylphiaTools
-  version: 1.0
+  name: ElarisLab
+  version: 1.1
   environment: production
 api:
   dexscreener_url: 'https://api.dexscreener.com/latest/dex/tokens/'
